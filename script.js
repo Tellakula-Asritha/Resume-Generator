@@ -33,3 +33,6 @@ function downloadPDF() {
 function goBack() {
     window.location.href = "index.html";
 }
+function redirectToResume(){
+    window.location.href="resume.html"
+}
